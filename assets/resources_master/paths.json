@@ -1,0 +1,10 @@
+{
+  "character_1_up": "./assets/images/character_1_up.gif",
+  "character_1_right": "./assets/images/character_1_right.gif",
+  "character_1_down": "./assets/images/character_1_down.gif",
+  "character_1_left": "./assets/images/character_1_left.gif",
+  "enemy_sprite":  "./assets/images/enemy_sprite.gif",
+  "enemy_projectile": "./assets/images/enemy_projectile.png",
+  "player_projectile": "./assets/images/player_projectile.png",
+  "game_background_1": "./assets/images/game_background_1.png"
+}
